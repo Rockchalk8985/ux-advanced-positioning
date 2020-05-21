@@ -1,1 +1,17 @@
 /* Add your CSS Below */
+.one-b{
+  position: relative;
+  bottom: 15px;
+  left: 15px;
+}
+
+.two-c{
+  position: relative;
+  bottom: 200px;
+  left: 100px;
+}
+
+.three-a{
+position: fixed;
+left: 1400px;
+}/* Add your CSS Below */
