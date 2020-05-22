@@ -1,1 +1,37 @@
 /* Add your CSS Below */
+.table {
+  border-collapse: collapse;
+  width: 30%;
+}
+
+.table-head {
+  border-radius: 10px 10px 0px 0px;
+  background-color: green;
+}
+
+th {
+  color: white;
+}
+
+th:nth-child(1){
+    text-align: right;
+}
+th:nth-child(2){
+    text-align: left;
+    padding: 10px;
+}
+th:nth-child(3){
+    text-align: center;
+}
+td:nth-child(1){
+text-align: right;
+padding: 10px;
+}
+
+td:nth-child(2){
+    padding-left: 10px;
+}
+td:nth-child(3){
+    text-align: center;
+    padding-right:px ;
+}
